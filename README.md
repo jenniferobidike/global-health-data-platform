@@ -86,7 +86,5 @@ Healthcare workforce capacity contributes to improved outcomes, but its impact d
 
 Premature mortality from non-communicable diseases remains concentrated in countries with limited access to preventive infrastructure and healthcare services. These findings emphasize that sustainable improvements in population health require integrated systems that prioritize access, prevention, and efficient service delivery.
 
----
-
-## 📁 Repository Structure
+Built and Organised by Jennifer Obidike
 
