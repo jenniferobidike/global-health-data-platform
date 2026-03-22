@@ -30,6 +30,37 @@ WHO World Health Statistics indicators:
 All datasets were cleaned, standardized, and merged into a single analytics table to support consistent cross-country and time-series analysis.
 
 ---
+## ⚙️ Data Workflow & Architecture
+
+The project follows a structured data processing pipeline:
+
+### 1. Data Ingestion
+- Imported WHO datasets and supporting indicators  
+- Loaded raw data into staging layers using Excel and SQL Server  
+
+### 2. Data Transformation
+- Cleaned and standardised datasets (handling missing values, inconsistent formats, and schema alignment)  
+- Performed data integration and merging across multiple indicators using Python  
+
+### 3. Data Modelling
+- Structured transformed data into a unified analytical dataset  
+- Designed data structures to support cross-country comparisons and time-series analysis  
+
+### 4. Analytical & Reporting Layer
+- Performed exploratory and statistical analysis using Python  
+- Developed interactive dashboards in Power BI to communicate insights  
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Excel** – Initial data cleaning and standardisation  
+- **SQL Server** – Staging, data validation, and exploratory analysis  
+- **Python (Pandas, Matplotlib)** – Data transformation, integration, and analysis  
+- **Power BI** – Data modelling and dashboard development  
+- **GitHub** – Version control and project management  
+
+---
 
 ## 🛠 Tools & Workflow
 
