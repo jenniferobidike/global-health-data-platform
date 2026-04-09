@@ -11,7 +11,7 @@
 
 This project analyzes global health outcomes and healthcare system capacity using World Health Organization (WHO) World Health Statistics data. The objective is to understand how healthcare access, workforce capacity, and basic infrastructure relate to population health outcomes across countries.
 
-The analysis focuses on identifying structural drivers of health inequality and assessing whether improvements in outcomes are more strongly associated with access and coverage or with workforce size alone. The project was designed as a mid-level analytics portfolio piece, emphasizing end-to-end workflow, data modeling, exploratory analysis, and executive-level storytelling.
+The analysis focuses on identifying structural drivers of health inequality and assessing whether improvements in outcomes are more strongly associated with access and coverage or with workforce size alone. The project was designed to emphasise end-to-end workflow, data modeling, exploratory analysis, and executive-level storytelling. It simulates a real-world analytics pipeline, including data ingestion, transformation, validation and reporting.
 
 ---
 
